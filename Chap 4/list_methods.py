@@ -13,3 +13,5 @@ print(l1)
 value = l1.pop(1) # remove element at index 1
 print(value)
 print(l1)
+l1.remove(23)
+print(l1)   
